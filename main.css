@@ -1,0 +1,138 @@
+* { 
+	font-family: "Roboto Condensed", 
+	sans-serif;
+	Georgia, 
+	Serif, 
+
+}
+
+body {
+background-color: black;
+color: darkred;
+
+}
+
+a {
+	color: deepskyblue;
+}
+
+/*div.float {
+	padding: 20px;
+}
+
+div.float-child {
+	width: 50%;
+	float: left;
+	padding: 20px;
+
+}*/
+
+div.basic {
+	font-family:
+	Georgia,
+	Serif,
+	text-transform: uppercase;
+	text-align: center;
+	margin: auto;
+	border: solid; red; 
+	width: auto; 
+	max-width: 50%;
+	background-color: #181818;
+}
+
+ div.education {
+	font-family:
+	Georgia,
+	Serif,
+	text-transform: uppercase;
+	text-align: center;
+	margin: auto;
+	border: solid; red; 
+	max-width: 50%;
+	background-color: #181818;
+	margin-top: 5px;
+}
+
+div.education-two{
+	text-align: left;
+	margin-left: 10px;
+}
+
+ div.experience {
+	font-family:
+	Georgia,
+	Serif,
+	text-transform: uppercase;
+	text-align: center;
+	margin: auto;
+	border: solid; red; 
+	max-width: 50%;
+	background-color: #181818;
+	margin-top: 5px;
+}
+
+div.experience-two{
+	text-align: left;
+	margin-left: 10px;
+}
+
+div.additional{
+	text-align: left;
+	margin-left: 10px;
+}
+
+ div.skills {
+	font-family:
+	Georgia,
+	Serif,
+	text-transform: uppercase;
+	text-align: center;
+	margin: auto;
+	border: solid; red; 
+	max-width: 50%;
+	background-color: #181818;
+	margin-top: 5px;
+}
+
+div.skills-two{
+	text-align: left;
+	margin-left: 10px;
+}
+
+ div.awards {
+	font-family:
+	Georgia,
+	Serif,
+	text-transform: uppercase;
+	text-align: center;
+	margin: auto;
+	border: solid; red; 
+	max-width: 50%;
+	background-color: #181818;
+	margin-top: 5px;
+}
+
+div.awards-two{
+	text-align: left;
+	margin-left: 10px;
+}
+
+ul {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+@media(min-width: 681px) {
+
+	font-family:
+	Georgia,
+	Serif,
+	text-transform: uppercase;
+	text-align: center;
+	margin: auto;
+	/*margin-left: 10px;*/
+	border: solid; red; 
+	width: auto; 
+	max-width: 50%;
+	background-color: #181818;
+}
